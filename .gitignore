@@ -1,0 +1,14 @@
+# OS X
+.DS_Store
+
+# JS
+node_modules/
+jspm_packages/
+staging/
+*.swp
+*.swo
+
+*.log
+*.lock
+
+.idea
